@@ -24,4 +24,4 @@ const anotherid = Symbol('1234')
 console.log(id === anotherid);
 
 const bignumber = 23445588899999n
-console.log(typeof(bignumber));
+console.log(typeof(bignumber)); 
